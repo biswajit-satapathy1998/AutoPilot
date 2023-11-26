@@ -1,6 +1,6 @@
 # How to Use
-Download the [dataset](https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view?usp=sharing) and extract into the repository folder
-
+Download the [dataset][(https://drive.google.com/file/d/0B-KJCaaF7elleG1RbzVPZWV4Tlk/view?usp=sharing)](https://drive.google.com/file/d/18v2-_x-DbkWTyNSbpcF_O_NJE_EaXSDk/view?usp=drive_link) and extract into the repository folder
+https://drive.google.com/file/d/18v2-_x-DbkWTyNSbpcF_O_NJE_EaXSDk/view?usp=drive_link
 Use `python train.py` to train the model
 
 Use `python run.py` to run the model on a live webcam feed
